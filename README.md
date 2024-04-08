@@ -43,3 +43,5 @@ Need someone who will communicate clearly, care about your success, and anticipa
 
 ## Let's Connect
 Feel free to reach out to me to discuss collaborations, job opportunities, or just to say hello! 😊
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
