@@ -19,23 +19,23 @@ Need someone who will communicate clearly, care about your success, and anticipa
 - ✅ WordPress Page Speed Increasing
 
 ------------- React.JS----------------
-✅ Javascript/Typescript, HTML/CSS, Sass/LESS
-✅ React.JS - Redux, Next.JS, Gatsby
-✅ Bootstrap, Tailwind, Material UI, Styled Components
-✅ Integrate with Backend apis (Node.JS, Python, Laravel)
-✅ Restful API, Graphql, AWS.
-✅ React Native.
-✅ Contentful, ContentStack
+- ✅ Javascript/Typescript, HTML/CSS, Sass/LESS
+- ✅ React.JS - Redux, Next.JS, Gatsby
+- ✅ Bootstrap, Tailwind, Material UI, Styled Components
+- ✅ Integrate with Backend apis (Node.JS, Python, Laravel)
+- ✅ Restful API, Graphql, AWS.
+- ✅ React Native.
+- ✅ Contentful, ContentStack
 
 ------------- Shopify----------------
-✅ Customization of existing Shopify themes, templates, and Apps.
-✅ Development the custom Shopify 1.0 and 2.0 Themes from scratch.
-✅ ThemeKit and CLI
-✅ Integrate with the latest frameworks such as React.JS, Node.JS, Python.
-✅ Code debugging and optimization, Speed optimization, Conversion rate optimizations
-✅ Responsive design, UI/UX improvements
-✅ Providing 90 days of cost-free bug-fixing after the project is completed.
-✅ Offering maintenance and support packages.
+- ✅ Customization of existing Shopify themes, templates, and Apps.
+- ✅ Development the custom Shopify 1.0 and 2.0 Themes from scratch.
+- ✅ ThemeKit and CLI
+- ✅ Integrate with the latest frameworks such as React.JS, Node.JS, Python.
+- ✅ Code debugging and optimization, Speed optimization, Conversion rate optimizations
+- ✅ Responsive design, UI/UX improvements
+- ✅ Providing 90 days of cost-free bug-fixing after the project is completed.
+- ✅ Offering maintenance and support packages.
  
 ## Contact Me
 - [Email](mailto:chaowang318915@gmail.com)
