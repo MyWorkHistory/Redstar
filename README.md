@@ -10,13 +10,13 @@ Need someone who will communicate clearly, care about your success, and anticipa
 
 ## Skills
  -------------Wordpress-----------
-✅ Premium Theme Customization
-✅ Custom Designed Wordpress Themes
-✅ WooCommerce / Plugin Customization
-✅ WordPress maintenance
-✅ PSD / HML5 / CSS3 to WordPress Theme
-✅WordPress Theme Development
-✅ WordPress Page Speed Increasing
+- ✅ Premium Theme Customization
+- ✅ Custom Designed Wordpress Themes
+- ✅ WooCommerce / Plugin Customization
+- ✅ WordPress maintenance
+- ✅ PSD / HML5 / CSS3 to WordPress Theme
+- ✅WordPress Theme Development
+- ✅ WordPress Page Speed Increasing
 
 ------------- React.JS----------------
 ✅ Javascript/Typescript, HTML/CSS, Sass/LESS
