@@ -1,57 +1,45 @@
 [![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
 
 
-# Hi there, I'm [Your Name]! 👋
-![Your Name](https://your-image-url)
+# Hi there, I'm a full stack web developer! 👋
 
 ## About Me
-I'm a passionate web developer with [X years] of experience in crafting beautiful and functional websites. My expertise lies in front-end development, where I specialize in HTML, CSS, and JavaScript. I'm always eager to learn new technologies and explore innovative ways to create engaging user experiences.
+I am an experienced Senior Web Developer with 8 years of experience in Wordpress, React.JS and Shopify, and passion in creating engaging and user-friendly websites that elevate your business to new heights.
+
+Need someone who will communicate clearly, care about your success, and anticipate options that minimize unwanted surprises? 
 
 ## Skills
-- HTML5
-- CSS3 / SASS / LESS
-- JavaScript / ES6+
-- React.js / Vue.js / Angular
-- Responsive Web Design
-- Git / GitHub
-- UI/UX Design Principles
+ -------------Wordpress-----------
+✅ Premium Theme Customization
+✅ Custom Designed Wordpress Themes
+✅ WooCommerce / Plugin Customization
+✅ WordPress maintenance
+✅ PSD / HML5 / CSS3 to WordPress Theme
+✅WordPress Theme Development
+✅ WordPress Page Speed Increasing
 
-## Projects
-### [Project Name 1](Link to Project 1)
-Description of Project 1.
+------------- React.JS----------------
+✅ Javascript/Typescript, HTML/CSS, Sass/LESS
+✅ React.JS - Redux, Next.JS, Gatsby
+✅ Bootstrap, Tailwind, Material UI, Styled Components
+✅ Integrate with Backend apis (Node.JS, Python, Laravel)
+✅ Restful API, Graphql, AWS.
+✅ React Native.
+✅ Contentful, ContentStack
 
-![Project 1](https://project1-screenshot-url)
-
-### [Project Name 2](Link to Project 2)
-Description of Project 2.
-
-![Project 2](https://project2-screenshot-url)
-
-### [Project Name 3](Link to Project 3)
-Description of Project 3.
-
-![Project 3](https://project3-screenshot-url)
-
-## Work Experience
-### [Company Name](Company Website)
-- **Position:** [Your Position]
-- **Duration:** [Start Date] - [End Date]
-- Description of your responsibilities and accomplishments.
-
-### [Company Name](Company Website)
-- **Position:** [Your Position]
-- **Duration:** [Start Date] - [End Date]
-- Description of your responsibilities and accomplishments.
-
-## Education
-- **Degree:** [Your Degree]
-- **University:** [University Name]
-- **Duration:** [Start Year] - [End Year]
-
+------------- Shopify----------------
+✅ Customization of existing Shopify themes, templates, and Apps.
+✅ Development the custom Shopify 1.0 and 2.0 Themes from scratch.
+✅ ThemeKit and CLI
+✅ Integrate with the latest frameworks such as React.JS, Node.JS, Python.
+✅ Code debugging and optimization, Speed optimization, Conversion rate optimizations
+✅ Responsive design, UI/UX improvements
+✅ Providing 90 days of cost-free bug-fixing after the project is completed.
+✅ Offering maintenance and support packages.
+ 
 ## Contact Me
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Personal Website](https://your-personal-website.com)
+- [Email](mailto:chaowang318915@gmail.com)
+- [Skype](skype:live:.cid.2d87b5c5ddaa2d6?chat)
 
 ## Let's Connect
 Feel free to reach out to me to discuss collaborations, job opportunities, or just to say hello! 😊
