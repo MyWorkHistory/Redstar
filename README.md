@@ -38,8 +38,8 @@ Need someone who will communicate clearly, care about your success, and anticipa
 - ✅ Offering maintenance and support packages.
  
 ## Contact Me
-- [Email](mailto:chaowang318915@gmail.com)
-- [Skype](skype:live:.cid.2d87b5c5ddaa2d6?chat)
+- Email: chaowang318915@gmail.com
+- Skype: live:.cid.2d87b5c5ddaa2d6
 
 ## Let's Connect
 Feel free to reach out to me to discuss collaborations, job opportunities, or just to say hello! 😊
